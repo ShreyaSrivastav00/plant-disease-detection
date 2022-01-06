@@ -6,7 +6,7 @@ To identify the disease in the plant using the images of the plant's leaf.
 
 Mapping to machine learning problem- 
 
-It is Multiclassification problem of classifying the leves into one of the 38 classes present.
+It is Multiclassification problem of classifying the leaves into one of the 38 classes present.
 
 ## Metric Used-
 
